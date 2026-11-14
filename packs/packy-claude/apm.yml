@@ -1,0 +1,8 @@
+name: packy-claude
+version: 1.1.0
+description: "Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants)"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: packy
+  surface: claude

@@ -1,0 +1,11 @@
+name: orchestrate
+version: 4.0.0
+description: "Coordinate focused Codex subagents"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: orchestrate
+  surface: agents
+  origins:
+    - repository: yersonargotev/orchestrate-skill
+      commit: fe3e0b7b690dcb14aefdb0d50e4e9b06a084dd00

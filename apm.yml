@@ -1,0 +1,77 @@
+name: skills
+version: 1.0.0
+description: "Reviewed agent skill packs from the Packy Catalog, packaged for APM"
+author: yersonargotev
+marketplace:
+  owner:
+    name: yersonargotev
+    url: https://github.com/yersonargotev
+  packages:
+    - name: addy
+      description: "Addy agent skills (Agents variants; use the -claude package for Claude Code)"
+      source: ./packs/addy
+      version: 5.0.1
+    - name: addy-claude
+      description: "Addy agent skills (Claude Code variants)"
+      source: ./packs/addy-claude
+      version: 5.0.1
+    - name: argote
+      description: "Yerson Argote's engineering, communication, and issue-delivery workflows"
+      source: ./packs/argote
+      version: 5.0.0
+    - name: claude
+      description: "Portable HTML explanation and planning skills from the Claude community repository"
+      source: ./packs/claude
+      version: 2.0.0
+    - name: cursor-team-kit
+      description: "Cursor Team Kit skills for removing code slop and driving local CLI and UI harnesses"
+      source: ./packs/cursor-team-kit
+      version: 1.0.0
+    - name: emil
+      description: "Emil Kowalski skills for UI design, web and Expo animation, mobile polish, Swift, and frontend libraries"
+      source: ./packs/emil
+      version: 3.1.0
+    - name: humanlayer
+      description: "HumanLayer skills for visual explanations, pull requests, React types, and agentic workflows"
+      source: ./packs/humanlayer
+      version: 4.0.0
+    - name: matty
+      description: "Matty workflow"
+      source: ./packs/matty
+      version: 5.0.0
+    - name: orchestrate
+      description: "Coordinate focused Codex subagents"
+      source: ./packs/orchestrate
+      version: 4.0.0
+    - name: packy
+      description: "Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code)"
+      source: ./packs/packy
+      version: 1.1.0
+    - name: packy-claude
+      description: "Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants)"
+      source: ./packs/packy-claude
+      version: 1.1.0
+    - name: ponytail
+      description: "Ponytail 5 minimal-code guidance and six skills, adapted for Packy without plugin runtime hooks"
+      source: ./packs/ponytail
+      version: 3.0.1
+    - name: pstack
+      description: "Apply pstack's reviewed portable engineering workflows and principles (Agents variants; use the -claude package for Claude Code)"
+      source: ./packs/pstack
+      version: 6.2.0
+    - name: pstack-claude
+      description: "Apply pstack's reviewed portable engineering workflows and principles (Claude Code variants)"
+      source: ./packs/pstack-claude
+      version: 6.2.0
+    - name: thermos
+      description: "Thermos correctness, security, and maintainability reviews with portable reviewer agents"
+      source: ./packs/thermos
+      version: 3.0.0
+    - name: warp
+      description: "Warp common engineering and agent workflows"
+      source: ./packs/warp
+      version: 2.6.0
+    - name: web
+      description: "Web automation and React engineering skills"
+      source: ./packs/web
+      version: 4.0.1

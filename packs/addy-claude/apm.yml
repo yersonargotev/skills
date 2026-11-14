@@ -1,0 +1,11 @@
+name: addy-claude
+version: 5.0.1
+description: "Addy agent skills (Claude Code variants)"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: addy
+  surface: claude
+  origins:
+    - repository: addyosmani/agent-skills
+      commit: aeac41d4d005999432bb7312f7ff06383a91d59d

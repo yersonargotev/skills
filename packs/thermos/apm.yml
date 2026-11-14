@@ -1,0 +1,11 @@
+name: thermos
+version: 3.0.0
+description: "Thermos correctness, security, and maintainability reviews with portable reviewer agents"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: thermos
+  surface: agents
+  origins:
+    - repository: cursor/plugins
+      commit: 53e579f1481697931fc44f5445171397cfa2b24b

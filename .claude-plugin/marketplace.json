@@ -1,0 +1,111 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "yersonargotev",
+    "url": "https://github.com/yersonargotev"
+  },
+  "plugins": [
+    {
+      "name": "addy",
+      "description": "Addy agent skills (Agents variants; use the -claude package for Claude Code)",
+      "version": "5.0.1",
+      "source": "./packs/addy"
+    },
+    {
+      "name": "addy-claude",
+      "description": "Addy agent skills (Claude Code variants)",
+      "version": "5.0.1",
+      "source": "./packs/addy-claude"
+    },
+    {
+      "name": "argote",
+      "description": "Yerson Argote's engineering, communication, and issue-delivery workflows",
+      "version": "5.0.0",
+      "source": "./packs/argote"
+    },
+    {
+      "name": "claude",
+      "description": "Portable HTML explanation and planning skills from the Claude community repository",
+      "version": "2.0.0",
+      "source": "./packs/claude"
+    },
+    {
+      "name": "cursor-team-kit",
+      "description": "Cursor Team Kit skills for removing code slop and driving local CLI and UI harnesses",
+      "version": "1.0.0",
+      "source": "./packs/cursor-team-kit"
+    },
+    {
+      "name": "emil",
+      "description": "Emil Kowalski skills for UI design, web and Expo animation, mobile polish, Swift, and frontend libraries",
+      "version": "3.1.0",
+      "source": "./packs/emil"
+    },
+    {
+      "name": "humanlayer",
+      "description": "HumanLayer skills for visual explanations, pull requests, React types, and agentic workflows",
+      "version": "4.0.0",
+      "source": "./packs/humanlayer"
+    },
+    {
+      "name": "matty",
+      "description": "Matty workflow",
+      "version": "5.0.0",
+      "source": "./packs/matty"
+    },
+    {
+      "name": "orchestrate",
+      "description": "Coordinate focused Codex subagents",
+      "version": "4.0.0",
+      "source": "./packs/orchestrate"
+    },
+    {
+      "name": "packy",
+      "description": "Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code)",
+      "version": "1.1.0",
+      "source": "./packs/packy"
+    },
+    {
+      "name": "packy-claude",
+      "description": "Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants)",
+      "version": "1.1.0",
+      "source": "./packs/packy-claude"
+    },
+    {
+      "name": "ponytail",
+      "description": "Ponytail 5 minimal-code guidance and six skills, adapted for Packy without plugin runtime hooks",
+      "version": "3.0.1",
+      "source": "./packs/ponytail"
+    },
+    {
+      "name": "pstack",
+      "description": "Apply pstack's reviewed portable engineering workflows and principles (Agents variants; use the -claude package for Claude Code)",
+      "version": "6.2.0",
+      "source": "./packs/pstack"
+    },
+    {
+      "name": "pstack-claude",
+      "description": "Apply pstack's reviewed portable engineering workflows and principles (Claude Code variants)",
+      "version": "6.2.0",
+      "source": "./packs/pstack-claude"
+    },
+    {
+      "name": "thermos",
+      "description": "Thermos correctness, security, and maintainability reviews with portable reviewer agents",
+      "version": "3.0.0",
+      "source": "./packs/thermos"
+    },
+    {
+      "name": "warp",
+      "description": "Warp common engineering and agent workflows",
+      "version": "2.6.0",
+      "source": "./packs/warp"
+    },
+    {
+      "name": "web",
+      "description": "Web automation and React engineering skills",
+      "version": "4.0.1",
+      "source": "./packs/web"
+    }
+  ]
+}

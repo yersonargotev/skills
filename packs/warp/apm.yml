@@ -1,0 +1,11 @@
+name: warp
+version: 2.6.0
+description: "Warp common engineering and agent workflows"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: warp
+  surface: agents
+  origins:
+    - repository: warpdotdev/common-skills
+      commit: 8792394ff1b655e0af451b8fabb68ef0cfcbd208

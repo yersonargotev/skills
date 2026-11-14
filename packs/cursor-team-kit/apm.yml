@@ -1,0 +1,11 @@
+name: cursor-team-kit
+version: 1.0.0
+description: "Cursor Team Kit skills for removing code slop and driving local CLI and UI harnesses"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: cursor-team-kit
+  surface: agents
+  origins:
+    - repository: cursor/plugins
+      commit: 1ba91fc25c0977741dd0e267849e6234b037ed0a

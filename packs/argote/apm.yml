@@ -1,0 +1,12 @@
+name: argote
+version: 5.0.0
+description: "Yerson Argote's engineering, communication, and issue-delivery workflows"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: argote
+  surface: agents
+  origins:
+    - repository: mattpocock/skills
+      commit: 84fdeffd12f2ee307994d1eb6feb48173b6e0502
+  external_requirements: ["gh", "git"]

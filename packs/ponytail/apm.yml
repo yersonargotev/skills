@@ -1,0 +1,11 @@
+name: ponytail
+version: 3.0.1
+description: "Ponytail 5 minimal-code guidance and six skills, adapted for Packy without plugin runtime hooks"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: ponytail
+  surface: agents
+  origins:
+    - repository: DietrichGebert/ponytail
+      commit: 09c434ab73ca43761c5d8b0c5d341926c2fba710

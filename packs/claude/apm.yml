@@ -1,0 +1,12 @@
+name: claude
+version: 2.0.0
+description: "Portable HTML explanation and planning skills from the Claude community repository"
+author: yersonargotev
+license: "Apache-2.0 AND MIT"
+x-packy:
+  pack: claude
+  surface: agents
+  origins:
+    - repository: anthropics/claude-plugins-community
+      commit: f60f0454df3045f724c43c6346ec80bdcc3472b2
+  external_requirements: ["node"]

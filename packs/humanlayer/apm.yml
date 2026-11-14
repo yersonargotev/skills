@@ -1,0 +1,11 @@
+name: humanlayer
+version: 4.0.0
+description: "HumanLayer skills for visual explanations, pull requests, React types, and agentic workflows"
+author: yersonargotev
+license: "MIT"
+x-packy:
+  pack: humanlayer
+  surface: agents
+  origins:
+    - repository: humanlayer/skills
+      commit: ca7c8088db69e315a8b2deea43820270457f8f3c

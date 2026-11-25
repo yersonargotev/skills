@@ -7,20 +7,14 @@
   "plugins": [
     {
       "name": "addy",
-      "description": "Addy agent skills (Agents variants; use the -claude package for Claude Code)",
-      "version": "5.0.1",
+      "description": "Addy agent skills",
+      "version": "5.1.0",
       "source": "./packs/addy"
-    },
-    {
-      "name": "addy-claude",
-      "description": "Addy agent skills (Claude Code variants)",
-      "version": "5.0.1",
-      "source": "./packs/addy-claude"
     },
     {
       "name": "argote",
       "description": "Yerson Argote's engineering, communication, and issue-delivery workflows",
-      "version": "5.0.0",
+      "version": "5.2.0",
       "source": "./packs/argote"
     },
     {
@@ -38,7 +32,7 @@
     {
       "name": "emil",
       "description": "Emil Kowalski skills for UI design, web and Expo animation, mobile polish, Swift, and frontend libraries",
-      "version": "3.1.0",
+      "version": "4.0.0",
       "source": "./packs/emil"
     },
     {
@@ -50,7 +44,7 @@
     {
       "name": "matty",
       "description": "Matty workflow",
-      "version": "5.0.0",
+      "version": "5.0.2",
       "source": "./packs/matty"
     },
     {
@@ -80,13 +74,13 @@
     {
       "name": "pstack",
       "description": "Apply pstack's reviewed portable engineering workflows and principles (Agents variants; use the -claude package for Claude Code)",
-      "version": "6.2.0",
+      "version": "6.3.0",
       "source": "./packs/pstack"
     },
     {
       "name": "pstack-claude",
       "description": "Apply pstack's reviewed portable engineering workflows and principles (Claude Code variants)",
-      "version": "6.2.0",
+      "version": "6.3.0",
       "source": "./packs/pstack-claude"
     },
     {

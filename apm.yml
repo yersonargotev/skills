@@ -8,17 +8,13 @@ marketplace:
     url: https://github.com/yersonargotev
   packages:
     - name: addy
-      description: "Addy agent skills (Agents variants; use the -claude package for Claude Code)"
+      description: "Addy agent skills"
       source: ./packs/addy
-      version: 5.0.1
-    - name: addy-claude
-      description: "Addy agent skills (Claude Code variants)"
-      source: ./packs/addy-claude
-      version: 5.0.1
+      version: 5.1.0
     - name: argote
       description: "Yerson Argote's engineering, communication, and issue-delivery workflows"
       source: ./packs/argote
-      version: 5.0.0
+      version: 5.2.0
     - name: claude
       description: "Portable HTML explanation and planning skills from the Claude community repository"
       source: ./packs/claude
@@ -30,7 +26,7 @@ marketplace:
     - name: emil
       description: "Emil Kowalski skills for UI design, web and Expo animation, mobile polish, Swift, and frontend libraries"
       source: ./packs/emil
-      version: 3.1.0
+      version: 4.0.0
     - name: humanlayer
       description: "HumanLayer skills for visual explanations, pull requests, React types, and agentic workflows"
       source: ./packs/humanlayer
@@ -38,7 +34,7 @@ marketplace:
     - name: matty
       description: "Matty workflow"
       source: ./packs/matty
-      version: 5.0.0
+      version: 5.0.2
     - name: orchestrate
       description: "Coordinate focused Codex subagents"
       source: ./packs/orchestrate
@@ -58,11 +54,11 @@ marketplace:
     - name: pstack
       description: "Apply pstack's reviewed portable engineering workflows and principles (Agents variants; use the -claude package for Claude Code)"
       source: ./packs/pstack
-      version: 6.2.0
+      version: 6.3.0
     - name: pstack-claude
       description: "Apply pstack's reviewed portable engineering workflows and principles (Claude Code variants)"
       source: ./packs/pstack-claude
-      version: 6.2.0
+      version: 6.3.0
     - name: thermos
       description: "Thermos correctness, security, and maintainability reviews with portable reviewer agents"
       source: ./packs/thermos

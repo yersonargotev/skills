@@ -1,5 +1,5 @@
 name: matty
-version: 5.0.0
+version: 5.0.2
 description: "Matty workflow"
 author: yersonargotev
 license: "MIT"
@@ -8,4 +8,4 @@ x-packy:
   surface: agents
   origins:
     - repository: mattpocock/skills
-      commit: 4ae2317ddb22b046e26455e4f9c9b3aaaf62212d
+      commit: d65391149dbb5fe76478e76fa8d5122b2aa5a70e

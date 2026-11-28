@@ -48,8 +48,8 @@ Claude Code projects, or scope each one with `targets:` in your `apm.yml`.
 | [`humanlayer`](packs/humanlayer) | 4.0.0 | 6 | HumanLayer skills for visual explanations, pull requests, React types, and agentic workflows |
 | [`matty`](packs/matty) | 5.0.2 | 35 | Matty workflow |
 | [`orchestrate`](packs/orchestrate) | 4.0.0 | 1 | Coordinate focused Codex subagents |
-| [`packy`](packs/packy) | 1.1.0 | 1 | Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code) |
-| [`packy-claude`](packs/packy-claude) | 1.1.0 | 1 | Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants) |
+| [`packy`](packs/packy) | 1.2.0 | 1 | Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code) |
+| [`packy-claude`](packs/packy-claude) | 1.2.0 | 1 | Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants) |
 | [`ponytail`](packs/ponytail) | 3.0.1 | 6 | Ponytail 5 minimal-code guidance and six skills, adapted for Packy without plugin runtime hooks |
 | [`pstack`](packs/pstack) | 6.3.0 | 59 | Apply pstack's reviewed portable engineering workflows and principles (Agents variants; use the -claude package for Claude Code) |
 | [`pstack-claude`](packs/pstack-claude) | 6.3.0 | 59 | Apply pstack's reviewed portable engineering workflows and principles (Claude Code variants) |

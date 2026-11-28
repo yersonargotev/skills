@@ -56,13 +56,13 @@
     {
       "name": "packy",
       "description": "Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "source": "./packs/packy"
     },
     {
       "name": "packy-claude",
       "description": "Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "source": "./packs/packy-claude"
     },
     {

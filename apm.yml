@@ -42,11 +42,11 @@ marketplace:
     - name: packy
       description: "Discover and obtain reviewed Catalog skills through the Packy CLI (Agents variants; use the -claude package for Claude Code)"
       source: ./packs/packy
-      version: 1.1.0
+      version: 1.2.0
     - name: packy-claude
       description: "Discover and obtain reviewed Catalog skills through the Packy CLI (Claude Code variants)"
       source: ./packs/packy-claude
-      version: 1.1.0
+      version: 1.2.0
     - name: ponytail
       description: "Ponytail 5 minimal-code guidance and six skills, adapted for Packy without plugin runtime hooks"
       source: ./packs/ponytail
